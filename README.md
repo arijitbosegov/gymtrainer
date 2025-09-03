@@ -40,7 +40,7 @@ pytest
 ## 👤 Author
 -	Name: Arijit Bose
 -	BITS ID: 2024ht66023@wilp.bits-pilani.ac.in
--	GitHub ID:
+-	GitHub ID: arijitbosegov
 
 ## 📝 License
 For educational and academic purpose
