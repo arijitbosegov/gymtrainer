@@ -20,3 +20,16 @@ def add_workout():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
+from flask import Flask
+
+def create_gymtrainer():
+    app = Flask(__name__)
+
+    @app.route('/')
+    def index():
+        return "Welcome to GymTrainer!"
+
+    return app
+
